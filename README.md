@@ -53,9 +53,8 @@ For nearly 10 years, I have worked on multiple projects on Mobile Devices, Mobil
 ### 📝 Blogs
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yash3x/)
-[![Medium Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yash3x)
 
 
 ### 🌎 Other Platforms
 
-[![Medium Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yash3x)
+[![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yash3x)
