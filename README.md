@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 For nearly 10 years, I have worked on multiple projects on Mobile Devices, Mobile Applications, Web Applications, and RESTful APIs. I have good experience working with Agile Scrum teams with Test-driven development (TDD) & Behavior-driven development (BDD) process. Comfortable with Rest Assured, JMeter, Selenium, Appium, and API test tools.
 
 
-<img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=yash3x&show_icons=true">
-<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=yash3x&" alt="yash3x" /></p>
+<img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=yashwant-das&show_icons=true">
+<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-das&" alt="yash3x" /></p>
 
 
 ### 🚀 Tech stack
