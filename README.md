@@ -31,7 +31,7 @@ For nearly 10 years, I have worked on multiple projects on Mobile Devices, Mobil
 | Functional Testing	| Integration testing, End-to-end testing, Smoke testing, Sanity testing, Regression testing, Acceptance testing, White box testing, Black box testing |	
 | Non-functional Testing	| Performance testing, Security testing, Load testing, Compatibility testing, Usability testing, Stress testing, Localization testing, Internationalization testing |
 | Test Documents	| Test strategy, Test plan, Test cases | 
-| Operating system    | Android, iOS, MacOS, Ubuntu, Windows, webOS, Tizen
+| Operating system    | Android, iOS, MacOS, Ubuntu, Windows, webOS, Tizen, RokuOS |
 | Bug tracking system	| Jira, Redmine |
 | Programming languages    | Python, Java, JavaScript |
 | Test framework	| Appium, Selenium, REST Assured, Puppeteer, TestNG, JUnit, Jest, Unittest, Maven |
@@ -41,6 +41,8 @@ For nearly 10 years, I have worked on multiple projects on Mobile Devices, Mobil
 | UI/UX tools	| Sketch, Zeplin, InVision |
 | API tools    | Postman, Paw Cloud, Jmeter, Artillery, Locust, WireMock |
 | Debugging Proxy	| Charles, Proxyman |
+| Media QC Software	| Baton, Emotion Engine |
+| Transcoding Technologies	| Vantage, FFmpeg, Content Agent, AWS Elemental MediaConvert |
 
 
 ### 📫 Reach Me
