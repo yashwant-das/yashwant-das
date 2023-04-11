@@ -26,7 +26,7 @@ In addition, I possess domain expertise in E-commerce, media, and Over-the-top (
 <img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-das&" alt="yash3x" /></p>
 
 
-### 💻📱🖥️🔧 Tech stack
+### 🧪 Tech stack
 
 | Type         | Skills            |
 | -------------- | ---------          |
