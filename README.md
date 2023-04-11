@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## Senior Specialist Quality Engineering
 
-For nearly 10 years, I have worked on multiple projects on Mobile Devices, Mobile Applications, Web Applications, and RESTful APIs. I have good experience working with Agile Scrum teams with Test-driven development (TDD) & Behavior-driven development (BDD) process. Comfortable with Rest Assured, JMeter, Selenium, Appium, and API test tools.
+With nearly 12 years of experience working on a diverse range of projects in Mobile Devices, Mobile Applications, Web Applications, and RESTful APIs, I have developed a strong skill set in Agile Scrum methodologies, Test-driven development (TDD), and Behavior-driven development (BDD). My technical expertise includes Rest Assured, JMeter, Selenium, Appium, and other API test tools.
+
+In addition, I possess domain expertise in E-commerce, media, and Over-the-top (OTT) media services. Throughout my career, I have consistently demonstrated my ability to work collaboratively with cross-functional teams to deliver high-quality products and ensure customer satisfaction.
 
 
 <img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=yashwant-das&show_icons=true">
