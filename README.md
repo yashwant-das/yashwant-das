@@ -1,8 +1,8 @@
 # Senior Specialist Quality Engineering 🚀
 
-Greetings! I'm Yashwant Das, a seasoned Quality Engineer with nearly 12 years of expertise in crafting high-quality software solutions. My journey spans a diverse spectrum, including Mobile Devices, Mobile Applications, Web Applications, and RESTful APIs.
+Greetings! I'm Yashwant Das, a seasoned Quality Engineer with nearly 13 years of expertise in crafting high-quality software solutions. My journey spans a diverse spectrum, including Mobile Devices, Mobile Applications, Web Applications, and RESTful APIs.
 
-🛠️ **Tech Toolbox:** My toolkit includes proficiency in Agile Scrum methodologies, Test-driven development (TDD), and Behavior-driven development (BDD). I wield technologies like Rest Assured, JMeter, Selenium, Appium, and other API testing tools with finesse.
+🛠️ **Tech Toolbox:** My toolkit includes proficiency in Agile Scrum methodologies, Test-driven development (TDD), and Behavior-driven development (BDD). I wield technologies like Rest Assured, JMeter, Selenium, Appium, Playwright and other API testing tools with finesse.
 
 💡 **Professional Approach:** Throughout my career, I've demonstrated a collaborative spirit, working with cross-functional teams to deliver exceptional products. I specialize in domains like E-commerce, media, and Over-the-top (OTT) media services.
 
@@ -25,25 +25,15 @@ In my journey as a Senior Specialist Quality Engineer, I've honed a versatile te
 | **Operating Systems**    | Android, iOS, MacOS, Ubuntu, Windows, webOS, Tizen, RokuOS                                                        |
 | **Bug Tracking Systems**  | Jira, Redmine                                                                                                   |
 | **Programming Languages**| Python, Java, JavaScript                                                                                        |
-| **Test Frameworks**      | Appium, Selenium, REST Assured, Puppeteer, TestNG, JUnit, Jest, Unittest, Maven                                   |
-| **Automation Tools**     | SeeTest, Ranorex, UI Automator, Katalon Studio, Cucumber                                                           |
+| **Test Frameworks**      | Appium, Selenium Webdriver, REST Assured, Puppeteer, TestNG, JUnit, Jest, Unittest, Maven                                   |
+| **Automation Tools**     | SeeTest, Ranorex, UI Automator, Katalon Studio, Cucumber, Playwright                                                            |
 | **Continuous Integration Tools** | Jenkins, Circle CI                                                                                           |
 | **Version Control Systems**| Git, GitHub, GitLab                                                                                             |
-| **UI/UX Tools**          | Sketch, Zeplin, InVision                                                                                        |
+| **UI/UX Tools**          | Figma, Sketch, Zeplin, InVision                                                                                        |
 | **API Tools**            | Postman, Paw Cloud, Jmeter, Artillery, Locust, WireMock                                                           |
 | **Debugging Proxy**      | Charles, Proxyman                                                                                              |
 | **Media QC Software**    | Baton, Emotion Engine                                                                                           |
 | **Transcoding Technologies**| Vantage, FFmpeg, Content Agent, AWS Elemental MediaConvert                                                        |
-
-## 📫 Reach Me
-
-Hey there! If you're interested in discussing quality engineering, tech collaborations, or just want to connect, feel free to reach out. I'm always open to engaging conversations and opportunities. Here are some ways to connect:
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yashwant-das/): Let's connect professionally.
-- 🐦 [Twitter](https://twitter.com/yash3x): Follow for tech insights and occasional randomness.
-- 📬 [Stack Overflow](https://stackoverflow.com/users/6400953/yash): Dive into my technical Q&A.
-
-Looking forward to connecting with you!
 
 ## 📝 Blogs
 
@@ -60,6 +50,16 @@ Beyond the coding realm, you can find me exploring various creative avenues and 
 - 🎵 [SoundCloud](https://soundcloud.com/yash3x): Tune into my eclectic music tastes and occasional audio experiments.
 
 Feel free to explore these platforms, and let's connect on shared interests outside the tech space!
+
+## 📫 Reach Me
+
+Hey there! If you're interested in discussing quality engineering, tech collaborations, or just want to connect, feel free to reach out. I'm always open to engaging conversations and opportunities. Here are some ways to connect:
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yashwant-das/): Let's connect professionally.
+- 🐦 [Twitter](https://twitter.com/yash3x): Follow for tech insights and occasional randomness.
+- 📬 [Stack Overflow](https://stackoverflow.com/users/6400953/yash): Dive into my technical Q&A.
+
+Looking forward to connecting with you!
 
 ---
 
