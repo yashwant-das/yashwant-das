@@ -8,11 +8,6 @@ Greetings! I'm Yashwant Das, a seasoned Quality Engineer with nearly 13 years of
 
 Let's connect and explore the exciting realms of quality engineering together!
 
----
-
-<img align='right' width=46% src="https://github-readme-stats.vercel.app/api?username=yashwant-das&show_icons=true">
-<img align="center" width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-das&" alt="yash3x" /></p>
-
 ## 🧪 Tech Stack
 
 In my journey as a Senior Specialist Quality Engineer, I've honed a versatile tech stack to deliver robust and high-performing software solutions. Here's a glimpse into my technical arsenal:
@@ -68,3 +63,8 @@ Looking forward to connecting with you!
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/6400953/yash)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashwant-das/)
 [![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yash3x)
+
+---
+
+<img align='left' width=45.5% src="https://github-readme-stats.vercel.app/api?username=yashwant-das&show_icons=true">
+<img align="right" width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-das&" alt="yash3x" /></p>
