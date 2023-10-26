@@ -25,7 +25,7 @@ In my journey as a Senior Specialist Quality Engineer, I've honed a versatile te
 | **Operating Systems**    | Android, iOS, MacOS, Ubuntu, Windows, webOS, Tizen, RokuOS                                                        |
 | **Bug Tracking Systems**  | Jira, Redmine                                                                                                   |
 | **Programming Languages**| Python, Java, JavaScript                                                                                        |
-| **Test Frameworks**      | Appium, Selenium Webdriver, REST Assured, Puppeteer, TestNG, JUnit, Jest, Unittest, Maven                                   |
+| **Test Frameworks**      | Appium, Selenium Webdriver, REST Assured, Puppeteer, TestNG, JUnit, Jest, Unittest, Maven, pytest                                   |
 | **Automation Tools**     | SeeTest, Ranorex, UI Automator, Katalon Studio, Cucumber, Playwright                                                            |
 | **Continuous Integration Tools** | Jenkins, Circle CI                                                                                           |
 | **Version Control Systems**| Git, GitHub, GitLab                                                                                             |
