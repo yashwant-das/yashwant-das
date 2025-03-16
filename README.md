@@ -1,12 +1,10 @@
-# Senior Specialist Quality Engineering 🚀
+# Senior Specialist Quality Engineering 🦾
 
 Greetings! I'm **Yashwant Das**, a **Quality Engineering Specialist** with **12+ years** of experience in **test automation and software quality** for Fortune 500 companies. My expertise spans **OTT & Media Streaming, E-commerce, Fintech, and Telecommunications**, ensuring seamless, high-quality digital experiences across **web, mobile, APIs, and cloud-based platforms**.
 
 🛠️ **Tech Toolbox:** I specialize in **test automation, CI/CD pipelines, cloud automation, and media streaming validation**. My arsenal includes **Selenium, Appium, Playwright, Rest Assured, JMeter, Percy, AWS Elemental, and DevOps tools like Jenkins, Docker, and Azure**.
 
 💡 **Professional Approach:** Throughout my career, I've built and led QE teams, developed scalable test frameworks, and automated workflows to enhance efficiency. My expertise includes **cross-device testing on Smart TVs, Fire TV, Apple TV, gaming consoles, and mobile platforms**, ensuring compliance with industry standards like **DRM validation and OTT certification**.
-
-Let's connect and explore the exciting realms of quality engineering together!
 
 ## ⚙️ Tech Stack
 
@@ -38,14 +36,15 @@ Beyond the tech realm, you’ll find me diving into music experiments and curati
 
 ## 📫 Reach Me
 
-Connect with me for discussions on **test automation, media quality, and engineering solutions**:
+Connect with me for discussions on **test automation, media quality, and engineering solutions**.
+
+Let’s connect and explore the exciting realms of quality engineering together! 🤝🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwant-das/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mypixelquest)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/6400953/yash)
 
 
-Looking forward to collaborating!
 
 ---
 
