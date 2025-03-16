@@ -41,10 +41,8 @@ Connect with me for discussions on **test automation, media quality, and enginee
 Let’s connect and explore the exciting realms of quality engineering together! 🤝🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwant-das/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mypixelquest)
+[![X Badge](https://img.shields.io/badge/X-@mypixelquest-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mypixelquest)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/6400953/yash)
-
-
 
 ---
 
