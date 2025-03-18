@@ -47,4 +47,3 @@ Let’s connect and explore the exciting realms of quality engineering together!
 ---
 
 <img align='left' width=45.5% src="https://github-readme-stats.vercel.app/api?username=yashwant-das&show_icons=true">
-<img align="right" width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-das&" alt="yash3x" /></p>
