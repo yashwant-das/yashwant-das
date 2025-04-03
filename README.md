@@ -6,21 +6,21 @@ Greetings! I'm **Yashwant Das**, a **Quality Engineering Specialist** with **12+
 
 💡 **Professional Approach:** Throughout my career, I've built and led QE teams, developed scalable test frameworks, and automated workflows to enhance efficiency. My expertise includes **cross-device testing on Smart TVs, Fire TV, Apple TV, gaming consoles, and mobile platforms**, ensuring compliance with industry standards like **DRM validation and OTT certification**.
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
-| **Category**            | **Skills**                                                                                                      |
-|-------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Test Automation**     | Selenium, Appium, Playwright, Cypress, Puppeteer, UI Automator, REST Assured, WireMock                        |
-| **CI/CD & DevOps**      | Jenkins, CircleCI, Docker, GitHub Actions, AWS Device Farm, Azure DevOps                                      |
-| **Media QC & Streaming**| AWS Elemental, Baton, FFmpeg, Emotion Engine, DRM Validation, Video Playback Testing, Streaming Protocols    |
-| **API Testing**         | REST, SOAP, GraphQL, Postman, Paw Cloud, JMeter, Artillery, Locust                                            |
-| **Performance & Security** | JMeter, Locust, Artillery, OWASP, Load/Stress Testing, Authentication & Authorization Testing           |
-| **Test Frameworks**     | Cucumber, BDD, TestNG, JUnit, Jest, Unittest, FitNesse                                                        |
-| **Version Control**     | Git, GitHub, GitLab                                                                                            |
-| **E-commerce & Payment** | Payment Gateway Testing, Checkout Flows, SQL, MongoDB, Oracle SQL                                           |
-| **Bug Tracking & Agile**| Jira, Redmine, Jira Workflow Automation, Test Strategy, Test Plan, Defect Management                         |
-| **UI/UX & Debugging**   | Percy (BrowserStack), Figma, Sketch, Zeplin, InVision, Charles, Proxyman                                     |
-| **Platforms**           | Android, iOS, Web, Windows, macOS, Linux, Tizen, RokuOS, Smart TVs, Fire TV, Apple TV, Xbox                  |
+| **Category**              | **Skills**                                                                                                      |
+|---------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Test Automation**       | Selenium, Appium, Playwright, Cypress, Puppeteer, UI Automator, REST Assured, WireMock                        |
+| **Test Frameworks**       | Cucumber, BDD, TestNG, JUnit, Jest, Unittest, FitNesse                                                        |
+| **CI/CD & DevOps**        | Jenkins, CircleCI, Docker, GitHub Actions, AWS Device Farm, Azure DevOps, BrowserStack                        |
+| **Version Control**       | Git, GitHub, GitLab                                                                                            |
+| **Media QC & Streaming**  | AWS Elemental, Baton, FFmpeg, Emotion Engine, DRM Validation, Video Playback Testing, Streaming Protocols     |
+| **E-commerce & Payment**  | Payment Gateway Testing, Checkout Flows, Order Management Systems, SQL, MongoDB, Oracle SQL                   |
+| **API Testing**           | REST, SOAP, GraphQL, Postman, Paw Cloud, JMeter, Artillery, Locust                                             |
+| **Performance & Security**| JMeter, Locust, Artillery, OWASP, Load/Stress Testing, Authentication & Authorization Testing                   |
+| **UI/UX & Debugging**     | Percy (BrowserStack), Sketch, Figma, Zeplin, InVision, Charles, Proxyman                                      |
+| **Bug Tracking & Agile**  | Jira, Redmine, Jira Workflow Automation, Test Strategy, Test Plan, Test Cases, Defect Management               |
+| **Platforms**             | Android, iOS, Web, Windows, macOS, Linux, Tizen, RokuOS, Smart TVs, Fire TV, Apple TV, Xbox, WebOS, Car Audio Systems |
 
 ## 📝 Blogs
 
