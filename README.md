@@ -1,4 +1,4 @@
-# Senior Specialist Quality Engineering 🦾
+# Senior Specialist Quality Engineering
 
 Greetings! I'm **Yashwant Das**, a **Quality Engineering Specialist** with **12+ years** of experience in **test automation and software quality** for Fortune 500 companies. My expertise spans **OTT & Media Streaming, E-commerce, Fintech, and Telecommunications**, ensuring seamless, high-quality digital experiences across **web, mobile, APIs, and cloud-based platforms**.
 
