@@ -1,7 +1,6 @@
 # Senior Specialist Quality Engineering | AI-Driven Test Systems
 
-**Yashwant Das**  
-*Quality Engineering Leader & Architect*
+## Yashwant Das
 
 With over 12 years of experience in architecting and implementing robust, scalable quality systems for Fortune 500 companies, I specialize in delivering resilient digital experiences across OTT/Media Streaming, E-commerce, and Fintech sectors. My expertise encompasses web, mobile, cloud, and device ecosystems.
 
