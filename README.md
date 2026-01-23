@@ -25,8 +25,8 @@ Beyond classical automation, I am **designing, prototyping, and evaluating LLM-a
 - **Cross-Device & OTT Streaming Quality Engineering**  
   Deep expertise in media workflows, device certification, DRM validation, and playback quality analysis.
 
-- **Senior-Level QE Architecture & Technical Leadership**  
-  Test strategy, framework design, and mentoring teams across geographies and domains.
+- **Test Strategy & QE Architecture**  
+  Developing full-lifecycle test strategies, framework architectures, and leading cross-functional quality enablement for large-scale engineering organizations.
 
 ---
 
