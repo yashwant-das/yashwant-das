@@ -34,50 +34,6 @@ Currently designing **explainable, zero-trust AI QA architectures** —<br>where
 
 ---
 
-### `TIMELINE` &nbsp; Experience
-
-<table>
-  <tr>
-    <td width="110"><b>Mar–Jun 2025</b></td>
-    <td>
-      <b>QA Manager</b> &nbsp;·&nbsp; Publicis Sapient<br>
-      <sub>Client: Pilot Flying J &nbsp;|&nbsp; Web · Mobile · API &nbsp;|&nbsp; Playwright-based automation, shift-left QA, CI/CD integration</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="110"><b>2021–2024</b></td>
-    <td>
-      <b>Senior Specialist QE</b> &nbsp;·&nbsp; LTIMindtree<br>
-      <sub>Clients: Paramount Pictures · The Travelers Companies · Equifax &nbsp;|&nbsp; OTT media QC, framework architecture, visual automation, Agile delivery</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="110"><b>2019–2021</b></td>
-    <td>
-      <b>QA Lead</b> &nbsp;·&nbsp; Future Focus Infotech<br>
-      <sub>Client: Falabella — 35M+ customers, LATAM &nbsp;|&nbsp; Mobile & API automation, Cucumber + Appium, distributed QA teams across 4 countries</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="110"><b>2017–2019</b></td>
-    <td>
-      <b>Senior QA Engineer</b> &nbsp;·&nbsp; Diagnal Technologies<br>
-      <sub>Clients: Optus Sport · ALTBalaji · FOX · Mediacorp &nbsp;|&nbsp; OTT/VOD platforms, Smart TVs, Xbox, Fire TV, DRM validation, app store certification</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="110"><b>2010–2017</b></td>
-    <td>
-      <b>Earlier roles</b> &nbsp;·&nbsp; Gionee · Lava International · Samsung India<br>
-      <sub>Mobile QA, Android automation, DRM compliance, media/image quality lab</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 ### `SKILLS` &nbsp; Technical proficiency
 
 **AI / LLM for QA**<br>
