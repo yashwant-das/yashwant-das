@@ -36,7 +36,7 @@ deterministic validation — not as a replacement for it.
 
 | Project | Stack | Description |
 |---|---|---|
-| [test-playwright-protocol](https://github.com/yashwant-das/test-playwright-protocol) | TypeScript · Playwright | Smart Playwright Protocol (SPP) — a lightweight, protocol-driven workflow for AI-assisted Playwright automation using Markdown tasks, verification gates, and Page Object best practices. |
+| [test-playwright-protocol](https://github.com/yashwant-das/test-playwright-protocol) | TypeScript, Playwright | Smart Playwright Protocol (SPP) — a lightweight, protocol-driven workflow for AI-assisted Playwright automation using Markdown tasks, verification gates, and Page Object best practices. |
 
 → More on the [portfolio site](https://yashwant-das.github.io)
 
