@@ -4,5 +4,3 @@ I'm a QA engineer based in Bengaluru. I've worked in testing for over 12 years, 
 
 These days I'm using local LLMs to generate tests, fix the ones that break, and check whether the results can be trusted. Most of what's public so far is built on Playwright, and I'm applying the same ideas to mobile and API testing.
 
-<!-- [Portfolio](https://yashwant-das.github.io) · --> 
-[LinkedIn](https://www.linkedin.com/in/yashwant-das/) · [Medium](https://medium.com/@yashwant-das/)
