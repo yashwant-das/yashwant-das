@@ -4,3 +4,4 @@ I'm a QA engineer based in Bengaluru. I've worked in testing for over 12 years, 
 
 These days I'm using LLMs and AI coding agents to write tests, fix the ones that break, and check whether the results can be trusted. I started with Playwright on the web, I'm now doing the same on mobile with Appium, and API testing is next.
 
+On the side, I built [Meters](https://github.com/yashwant-das/meters), a small macOS menu bar app that shows CPU, RAM and GPU usage. I made it to see what local LLMs were doing to my Mac.
